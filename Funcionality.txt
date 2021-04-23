@@ -1,0 +1,30 @@
+The DrawSomething game for cell phones is a social game of
+draw, in which one of the two players must guess what
+that the other player is painting, to achieve this, the player sees
+the picture that the opponent is drawing and has 12 letters
+to make up the word, which serve as a clue. Not
+all the words use the 12 letters.
+
+One of our clients is very competitive in this game, and has consistently lost with
+one of his friends, so he's asking us for help.
+
+He needs us to create a page for him where he can place the 12 letters that appear and the
+number of letters that make up the word that he must guess. By submitting this information,
+all possible combinations of words appear, so that our client can
+use them in your game and beat his friend.
+
+Example:
+
+The letters that appear are: TJEUINGRTSDA
+Number of letters that make up the word to guess: 7
+
+Outcome:
+
+● gánster
+● gradius
+● negrita
+● tijeras
+● trident
+● turista
+
+In this case, they were drawing a scissors
